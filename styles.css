@@ -1,3 +1,10 @@
 img {
-    width:  200px;
+width: 200px;
+border-radius: 16px;
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    color: purple;
+    background-color: greenyellow;
 }
